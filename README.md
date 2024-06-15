@@ -1,2 +1,1 @@
-# Awesome Portfolio Template
-Template for Portfolio Website
+# Simple Portfolio Telmplate
